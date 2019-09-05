@@ -1,6 +1,6 @@
 # prosodylabDatasets
 
-Datasets from prosodylab: tapping, givenness, and trueAlternatives
+R package with datasets from prosodylab: tapping, givenness, and trueAlternatives
 
 **Installation**: 
 
