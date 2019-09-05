@@ -70,5 +70,3 @@
 #' @references Wagner, M. (2018). Information structure and production planning. OSF Project \href{https://osf.io/8rjxu/}{project}
 #'
 "trueAlternatives"
-
-
