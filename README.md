@@ -4,9 +4,11 @@ Datasets from prosodylab: tapping, givenness, and trueAlternatives
 
 **Installation**: 
 
+```
 library(devtools)
 install_github("prosodylab/prosodylabDatasets")
 library(prosodylabDatasets)
+```
 
 These data sets are used in:
 
