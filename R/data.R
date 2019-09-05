@@ -61,6 +61,7 @@
 #'  \item{\code{context}}{context speaker listened to before producting target sentence}
 #'  \item{\code{rpitch}}{difference in semitones between maximum pitch on adjective and noun}
 #'  \item{\code{rintensity}}{difference in dB between maximum intensity on adjective and noun}
+#'  \item{\code{rduration}}{difference in log duration bewteen adjective and noun}
 #'  \item{\code{prominence}}{Annotation of whether prominence was shifted to adjective}
 #'  \item{\code{trial}}{trial # duration experiment}
 #'  \item{\code{text}}{Target text speaker was asked to respond with}

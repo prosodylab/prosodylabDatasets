@@ -1,12 +1,12 @@
 Package: prosodylabDatasets
 Type: Package
-Title: Datasets from prosodylab: tapping, givenness, and trueAlternatives
+Title: Data from prosodylab
 Version: 0.1.0
 Authors@R: c(person("Michael", "Wagner", email = "chael@mcgill.ca", role = c("aut", "cre")),
 				person("Oriana", "Kilbourn-Ceron", email = "oriana.kilbourn@gmail.com",role = c("ctb")),
                 person("Meghan", "Clayards", email = "meghan.clayards@gmail.com", role = c("ctb")))  
-Description: Data sets collected in prosodylab (http://prosodylab.mcgill.ca)
-License: \href{https://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons Attribution Share Alike 4.0 International}
+Description: Data sets collected in prosodylab (http://prosodylab.mcgill.ca), currently including tapping, givenness, and trueAlternatives.
+License: CC BY-NC-SA 4.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
